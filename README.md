@@ -39,16 +39,7 @@ Make sure you have [Node.js](https://nodejs.org) installed.
 
 Start the backend server:
 ```bash
-npm start
+npm run dev
 ```
 
-The application will be running at **[http://localhost:3000](http://localhost:3000)**.
-
-## Project Structure
-
-```text
-├── server.js          # Express backend proxy, XML parser, and tree builder
-├── index.html         # Frontend interface, interactive logic, and styles
-├── package.json       # Project dependencies and script runner
-└── .gitignore         # Ignores node_modules and system files
-```
+The application will be running at **[http://localhost:8787](http://localhost:8787)**.
