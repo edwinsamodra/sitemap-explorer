@@ -27,7 +27,7 @@ Make sure you have [Node.js](https://nodejs.org) installed.
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   cd tree
+   cd sitemap-explorer
    ```
 
 2. Install the dependencies:
